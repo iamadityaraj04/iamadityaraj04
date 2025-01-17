@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br><br>I am currently working as an Associate Software Engineer.
+Hi!👋<br><br>I am currently working as an Associate Software Engineer.
 
 
 ## 🌐 Socials:
