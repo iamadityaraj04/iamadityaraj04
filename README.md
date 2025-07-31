@@ -2,7 +2,11 @@
 Software engineer with <b>2+ years</b> of experience in <b>Java Backend development</b>, specializing in Spring Boot, microservices, and distributed systems. Key responsibilities include <b>designing and developing efficient APIs</b> to support the company's operational requirements. <b>AWS Cloud Practitioner certified,</b> I enjoy solving complex problems and building scalable solutions in dynamic environments.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamadityaraj04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadityaraj04) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28682898) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamadityaraj04) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadityaraj04) 
+[![Medium](https://img.shields.io/badge/Medium-%2320232a.svg?logo=medium&logoColor=white)](https://medium.com/@iamadityaraj04) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamadityaraj04) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamadityaraj04) 
+
 
 # 💻 Tech Stack:
 ![CoreJava](https://img.shields.io/badge/core_java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
