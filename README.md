@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer with <b>2+ years</b> of experience in <b>Java Backend development</b>, specializing in Spring Boot, microservices, and distributed systems. Key responsibilities include <b>designing and developing efficient APIs</b> to support the company's operational requirements. <b>AWS Cloud Practitioner certified,</b> I enjoy solving complex problems and building scalable solutions in dynamic environments.
+Software engineer with <b>2.5 years</b> of experience in <b>Java Backend development</b>, specializing in Spring Boot, microservices, and distributed systems. Key responsibilities include <b>designing and developing efficient APIs</b> to support the company's operational requirements. <b>AWS Cloud Practitioner certified,</b> I enjoy solving complex problems and building scalable solutions in dynamic environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadityaraj04) 
