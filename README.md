@@ -4,8 +4,6 @@ Software engineer with <b>2.5 years</b> of experience in <b>Java Backend develop
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadityaraj04) 
 [![Medium](https://img.shields.io/badge/Medium-%2320232a.svg?logo=medium&logoColor=white)](https://medium.com/@iamadityaraj04) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamadityaraj04) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamadityaraj04) 
 
 
 # 💻 Tech Stack:
